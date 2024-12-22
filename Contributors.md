@@ -2,6 +2,7 @@
 
 -[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 -[stevee14]
+- [jasurgraduate] (https://github.com/jasurgraduate)
 - [antoineDELEBECQUE](https://github.com/AntoineDlb)
 - [Jeremiah](https://github.com/jrmhx)
 - [benoitmonchaninsupinfo] (https://github.com/benoitmonchaninsupinfo)
